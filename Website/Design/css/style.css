@@ -1,0 +1,215 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	width:100%;
+	height:100%;
+	margin-bottom:5px;
+	font-family:"Trebuchet MS", Times, serif;
+}
+#Kontakt {
+	font-size:12px;
+	font-family:"Trebuchet MS", Times, serif;
+	height:60px;
+	line-height:150%;
+	width:auto;
+	margin:0em 19%;
+	text-align: left;
+}
+#Anschrift {
+	line-height:150%;
+	width:auto;
+	text-align: left;
+	font-family:"Trebuchet MS", Times, serif;
+	height:60px;
+	font-size:12px;
+	padding-top:10px;
+}
+#content {
+	height:538px;
+	font-family:"Trebuchet MS", Times, serif;
+	text-align:left;
+	margin-top:20px;
+	padding-top:20px;
+	box-shadow: 1px 1px 1px 1px #999;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 20px;
+	margin-bottom:15px;
+}
+#content3 {
+	height:auto;
+	font-family:"Trebuchet MS", Times, serif;
+	margin-top:15px;
+	box-shadow: 1px 1px 1px 1px #999;
+	border-radius: 20px;
+	margin-bottom:15px;
+}
+#map_canvas {
+	font-family:"Trebuchet MS", Times, serif;
+	width:100%;
+	height:600px; 
+	overflow:auto; 
+	margin-top:10px;
+	margin-bottom:10px;
+	float:left;
+}
+
+      #directionsPanel {
+        height: 300px;
+        float: right;
+		width:100%;
+		overflow: auto;
+      }
+
+      #control {
+        background: #fff;
+        padding: 5px;
+        font-size: 14px;
+        font-family: "Trebuchet MS";
+        border: 1px solid #ccc;
+        box-shadow: 1px 1px 1px 1px #999;
+		-webkit-border-radius: 10px;
+		-khtml-border-radius: 10px;
+		-moz-border-radius: 10px;
+		border-radius: 20px;
+		margin-bottom:15px;
+        display: none;
+      }
+
+#recht {
+	height:538px;
+	margin-top:15px;
+	font-family:"Trebuchet MS", Times, serif;
+	text-align:left;
+	box-shadow: 1px 1px 1px 1px #999;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 20px;
+	margin-bottom:15px;
+}
+#header {
+	height:90px;
+	text-align:left;
+	font-family:"Trebuchet MS", Times, serif;
+}
+#headermain {
+	margin-top:15px;
+	height:130px;
+	box-shadow: 1px 1px 1px 1px #999;
+	margin-bottom:20px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 20px;
+	
+}
+#menu {
+	height:30px;
+	box-shadow: 1px 1px 1px 1px #999;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 20px;
+	background-color:#003277;
+	font-size:large;
+}
+#fuss {
+	height:75px;
+	box-shadow: 1px 1px 1px 1px #999;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 20px;
+}
+#Logo {
+	margin-top:10px;
+	height:120%;
+	margin-left:120px;
+}
+#head {
+	font-size:24px;
+	margin-top:40px;	
+}
+#Dienste {
+	height:70px;
+	margin-top:8px;
+	font-family:"Trebuchet MS", Times, serif;
+}
+p.Dienste {
+	border:#000 double;
+	width:120px;
+	text-align:left;
+	padding-left:5px;
+	padding-right:5px;
+	font-family:"Trebuchet MS", Times, serif;
+}
+#menu1 {
+	height:24px;
+	text-align:center;
+	padding-top:6px;
+	margin-left:32%;
+	font-family:"Trebuchet MS", Times, serif;
+	width:10%;
+	border-left: thin #CCC groove;
+}
+#menu1:hover {
+	background-color:#F76114;
+}
+#menu2:hover {
+	background-color:#F76114;
+}
+#menu4:hover {
+	background-color:#F76114;
+}
+#menu2 {
+	width:10%;
+	height:24px;
+	text-align:center;
+	padding-top:6px;
+	font-family:"Trebuchet MS", Times, serif;
+	border-left: thin #CCC groove;
+}
+#menu4 {
+	width:10%;
+	height:24px;
+	text-align:center;
+	padding-top:6px;
+	font-family:"Trebuchet MS", Times, serif;
+	border-left: thin #CCC groove;
+	border-right: thin #CCC groove;
+}
+a.linkm {
+	text-decoration:none;
+	color:#FFF;
+	display:block;
+}
+#Ende {
+	margin-top: 10px;
+	text-align:center;
+	font-size:9px;
+	font-family:"Trebuchet MS", Times, serif;
+	word-spacing:20px;
+}
+a.fuss {
+	color:#666;
+	font-family:"Trebuchet MS", Times, serif;
+}
+a.fuss:hover {
+	color:#999;
+	font-family:"Trebuchet MS", Times, serif;
+}
+#tmasch {
+	text-align:left;
+	margin-left:250px;
+	margin-top:20px;
+	font-family:"Trebuchet MS", Times, serif;
+}
+#tteile {
+	text-align:left;
+	margin-left:250px;
+	margin-top:20px;
+	font-family:"Trebuchet MS", Times, serif;
+}
